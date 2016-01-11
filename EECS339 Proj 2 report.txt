@@ -1,0 +1,33 @@
+﻿eecs339 project 2
+brief report
+member:
+
+
+Xiaoyang Tan/xto633
+Xuanhao Zhao
+Zhixian Chen
+
+
+URL: http://murphy.wot.eecs.northwestern.edu/~xto633/rwb/rwb.pl
+root account :root
+root password :rootroot
+
+
+In this project we implemented the requirements, as well as the additional extra credits.
+
+
+For the extending query: we select from cycle before displaying the data, so the cycle table is always dynamic. Then we do "SELECT" according to what cycles are selected.
+
+
+For Crowdsourcing : we implemented the basic functionality such as inviting users and one-time link by tracking the information about referrers and invitees.
+
+
+For Aggregated view: we use SUM from NATURAL JOIN to select qualified data and set the color in javascript by calculating the difference.
+
+
+For the bonus part:
+# we implemented the encryption of password under LogIn function
+# we also add the count for the contributions coming involved with Committees and Individuals
+
+
+
